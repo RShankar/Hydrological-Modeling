@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 81
+Debug
+systemc_ams.ncb
+systemc_ams.suo
+systemc_ams.vcproj.EASW2K.karsten.user
+
+END
